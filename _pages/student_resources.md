@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /studentresources/
+permalink: /student resources/
 author_profile: true
 ---
 
