@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!--**Teaching assistant**-->
 
+
+<!--**Teaching assistant**
 **<font size="5">Graduate courses</font>**
 
 **EDS241** Environmental Policy Evaluation (Master of Environmental Data Science, Bren School, 2022) 
@@ -19,5 +20,6 @@ author_profile: true
 
 **ECON9** Principles of Economics (Department of Economics, UCSB, 2019)
 
-**ECON10A** Intermediate Microeconomics (Department of Economics, UCSB, 2019)
+**ECON10A** Intermediate Microeconomics (Department of Economics, UCSB, 2019)-->
+
 
