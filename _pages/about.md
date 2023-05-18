@@ -10,7 +10,7 @@ redirect_from:
 
 ![](images/carrizo_nm.jpeg)
 
-<img align="right" src="https://vthivierge.github.io/images/elliott_mountain.jpeg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://elliottfinn.github.io/images/elliott_mountain.jpeg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 I am a Ph.D. candidate in political science and environmental science at UC Santa Barbara.
 

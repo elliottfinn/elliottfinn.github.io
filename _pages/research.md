@@ -5,7 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-<!--**<font size="5">Work in progress</font>**-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- COMMENT out EVERYTHING 
 
 **<font size="5">Job market paper</font>**
 
@@ -61,3 +75,4 @@ Canada's Ecofiscal Commission, 2016\
 [Paper](https://ecofiscal.ca/wp-content/uploads/2016/04/Ecofiscal-Commission-Provincial-Carbon-Pricing-Household-Fairness-Report-April-2016.pdf)\
 Media: [Bloomberg](https://www.bloomberg.com/opinion/articles/2016-05-18/does-pricing-carbon-worsen-inequality-it-doesn-t-have-to?leadSource=uverify%20wall)
 
+-->
