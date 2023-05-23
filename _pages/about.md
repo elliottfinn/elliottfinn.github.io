@@ -14,7 +14,15 @@ redirect_from:
 
 I am a Ph.D. candidate in political science and environmental science at UC Santa Barbara.
 
-I study the underlying causes of conflict over public land management in the American West. 
+I study the institutional roots of identity group grievances, federal government resentment, support for anti-establishment political behaviors and candidates, and conflict over environmental policy and management. I am particularly interested in understanding how the historical relationships between communities and institutions shape public opinion, political behavior, and environmental outcomes in the American West.
+
+I use the historical role federal land jurisdiction and management played in shaping political behavior and identity in the Western U.S. to investigate these topics. As an interdisciplinary scholar and mixed-methods researcher, I use qualitative interviews and historical policy process tracing methods alongside quantitative surveys, geospatial, and design-based causal inference methods to approach these topics.
+
+My [job market paper](INSERT LINK) examines the effects of historical public land management policy changes on anti-federalism beliefs via support for constitutional sheriffs and the shift towards Republican Party dominance in rural Western communities. 
+
+Ongoing projects explore both the historical processes that create governance nostalgia as well as the contemporary distribution and prevalence of governance nostalgia.
+I also collaborate on projects which investigate the antecedents of climate change opinions and beliefs. 
+
 
 <!--tudies the intersections between policy and policymakers, local organizations, and individuals. Who controls the resources and makes land management or policy decisions, and how are benefits through use, non-use, or extraction distributed? As an undergraduate Elliott investigated the connections between individuals’ outdoor recreation participation, place of residence, and environmental worldviews. For the last three years, Elliott worked and traveled throughout Europe and South America, most extensively in Turkey and Colombia. When not in the office Elliott can be found hiking and backpacking across the public lands he enjoys studying. -->
 
