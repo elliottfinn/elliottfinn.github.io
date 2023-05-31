@@ -4,9 +4,11 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
     
-        
+  - title: "Teaching Feedback"
+    url: /teaching_feedback/
+    
   - title: "Student Resources"
     url: /student_resources/
     
@@ -15,4 +17,4 @@ main:
             
   - title: "Personal"
     url: /personal/
-        
+                    

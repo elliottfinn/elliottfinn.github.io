@@ -12,7 +12,7 @@ redirect_from:
 
 <img align="right" src="https://elliottfinn.github.io/images/elliott_mountain.jpeg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
-I am a Ph.D. candidate in political science and environmental science at UC Santa Barbara.
+I am a Ph.D. candidate in political science and environmental science at UC Santa Barbara. I live in Goleta, CA and work at UCSB which are located on unceded Indigenous Chumash ancestral lands and waters. Please consider financially supporting the Northern Chumash’s efforts to preserve their language via their ytt Northern Chumash Nonprofit and/or find out whose ancestral lands and waters you work and live on at: https://native-land.ca/
 
 I study the institutional roots of identity group grievances, federal government resentment, support for anti-establishment political behaviors and candidates, and conflict over environmental policy and management. I am particularly interested in understanding how the historical relationships between communities and institutions shape public opinion, political behavior, and environmental outcomes in the American West.
 
@@ -21,6 +21,7 @@ I use the historical role federal land jurisdiction and management played in sha
 My [job market paper](INSERT LINK) examines the effects of historical public land management policy changes on anti-federalism beliefs via support for constitutional sheriffs and the shift towards Republican Party dominance in rural Western communities. 
 
 Ongoing projects explore both the historical processes that create governance nostalgia as well as the contemporary distribution and prevalence of governance nostalgia.
+
 I also collaborate on projects which investigate the antecedents of climate change opinions and beliefs. 
 
 
