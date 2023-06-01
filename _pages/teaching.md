@@ -6,44 +6,57 @@ author_profile: true
 ---
 
 
-**Teaching Experience**
-**<font size="5">Graduate courses</font>**
-I taught courses and independent sections at the University of California at Santa Barbara at both the undergraduate (lower and upper division) and graduate (Master of Environmental Science and Management Program) levels. In addition, I worked for the Colombian government teaching spoken English to teachers and co-teaching English classes in public high schools as well as leadership and environmental science to students in the Colorado backcountry.
+**<font size="6">Teaching Experience</font>**
+I have taught courses and independent sections at the University of California at Santa Barbara at both the undergraduate (lower and upper division) and graduate (Master of Environmental Science and Management Program) levels.
 
-**Instructor of Record and/or Co-Developed Class:**
-**PS176** Energy Politics (Political Science, UCSB, 2021)
 
-**ESM241** Environmental Policy and Politics (Master of Environmental Science & Management, Bren School, 2018, 2019, 2020, 2021, 2022, 2023)
 
-**Teaching Assistant**
+**<font size="5.5">Instructor of Record and/or Co-Developed Class:</font>**
+**PS176** Energy Politics (Political Science, UCSB, 2021)/
+This course .... [Class Syllabus](LINK), [Section Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
-**ES1** Introduction to Environmental Studies (Environmental Studies, UCSB, 2018, 2019, 2020)
+
+**ESM241** Environmental Policy and Politics (Master of Environmental Science & Management, Bren School, 2018, 2019, 2020, 2021, 2022, 2023)/
+This course .... [Class Syllabus](LINK), [Section Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
+
+**<font size="5.5">Teaching Assistant:</font>**
+
+**ES1** Introduction to Environmental Studies (Environmental Studies, UCSB, 2018, 2019, 2020)\
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
 **PS12** Political Science Research Methods (Political Science, UCSB, 2021)
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
 **PS15** Introduction to American Politics (Political Science, UCSB, 2019)
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
 **PS176** Public Policy Analysis (Political Science, UCSB, 2022)
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
 **ES3** Introduction to the Social and Cultural Environment(Environmental Studies, UCSB, 2020)
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
 **ESM210** Business and the Environment (Master of Environmental Science & Management, Bren School, 2022)
+This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
+
+**<font size="5.5">Teaching Philosophy in Brief:</font>**
+I teach to share my passion and knowledge about environmental politics, land management, environmental science, and public lands history with my students, learn from their their experiences and perspectives, and to create solutions solving contemporary problems. My classes use real data sets, contemporary and historical examples and sources, and are scaffolded to build students' knowledge and skill in a structured manner. We learn how to integrate social and environmental sciences to understand the past, create contemporary solutions, and envision a better future./  
+
+**Connection and Safety** I believe in teaching materials and skills that respond to my students interests and needs. 
+My classrooms are welcoming and supportive because I build community by supporting marginalized students, encouraging considerate dialogue, and fostering critical analysis. I [survey]() student's needs and interests, create inclusive environments for learning by setting [norms](LINK to Norm activity or SYLLABUs), [reflecting during](LINK MIDCOURSE EVAL) and [after](LINK post course), creating classes that use diverse materials [LINk to written/podcast/video/]() and center [marginalized communities' perspectives and experiences](LINK Land curriculum, EJ integration into ENERGY)./
+
+[Preclass Survey Example](https://docs.google.com/forms/d/e/1FAIpQLSdYCUoHcN24ln1I2XbvEqZL8qhZE8kaRoML9U1wyrP34bWOgQ/viewform?usp=sf_link), [Mid Course Survey Example](LINK), [Post Course Survey Example](LINK), [Scaffolded Assignment Example](), [Energy Politics Syllabus centering marginalized communities and experiences with energy to explore energy politics](LINK )...... /  
+
+**Structure**
+My courses build students' capacity to think more systematically about both environmental and political problems,  gain important professional skills, analyze data, and create solutions to contemporary problems. I design my classes and assignments using [universal design principals](LINK) and use a diversity of assignments- from [essays and policy memos](energy policy memo LINK) to [problem sets and exams](energy pol p-sets, spatial voting p-set) to [public presentations](ESM early presentations LINK) and [creative projects](LINK to Campaign Targeting assignment) to engage and assess my students. My classes and assignments are [scaffolded](LINK ENERGY Policy Memo) to build knowledge and confidence. Students work individually and collaboratively and I use different classroom formats. I use both traditional lectures and [flipped classrooms](LINK TO ESM inclass)./
+
+**Co-Creating Knowledge and Creating Solutions to Real Problems**
+Students inspire my hope that we can heal historical harms to both people and the environment and design new solutions and policies. Students consistently teach me new specifics about environmental problems that I didn't know about and create uniqe analyses of past problems and creative new solutions. Here are some examples of the kinds of projects that students have created in classes I designed or helped design: [Campaign Video](LINK), [Billboards](link), [Radio](), [Partnering with NGO Analysis](LINK), [problem sets](LINK), [](LInk)./ 
 
 
-**Teaching Philosophy in Brief**
+**Teaching Philosophy:** [Full Teaching Statement](https://elliottfinn.github.io/files/Teaching Philosophy Statement_RD_4.pdf).)/
 
-I love sharing my passion for environmental politics, land management, environmental science, and history with my students. I believe in teaching materials and skills that respond to my students interests and needs. 
-My classrooms are welcoming and supportive because I build community by supporting marginalized students, encouraging considerate dialogue, and fostering critical analysis. [EVIDENCE LINKS: pre/mid course surveys, syllabi w/diverse sources etc].
-
-I design my classes and assignments using universal design principals [link] and use a diversity of assignments- from essays [energy policy memo link] to problem sets [energy pol p-sets, spatial voting p-set] to presentation [ESM early presentations] to creative projects [advertising campaigns, podcasts, video/radio, billboards] to engage and assess my students. My classes and assignments are scaffolded to build knowledge and confidence [link to energy memo].
-
-I build hands-on, interactive, structured classes using scaffolded assignments,  hands on data analysis, creative projects,  
-Students inspire my hope that we can heal historical harms to both people and the environment and design new solutions and policies. My classes use real data and ask students to solve problems by combining social and environmental science and my courses help students think more systematically about both environmental and political problems,  gain important professional skills with collaborative and individual projects, writing, data analysis, and _____.  
-
-I loved “consploring” the woods around our subdivision with my enthusiastic dad. I chose the places we walked, and Dad taught me how to pet lethargic bumblebees on cold days and identify flowers and fungi genera from phaecilia to cantharellus. He answered innumerable questions and guided me through field guides to answer questions that stumped him. Over time our consploring range expanded to public lands across the West where Dad helped me through dozens of Jr. Ranger programs, and we both expanded our understanding of the spaces we loved. The way Dad and me consplored is how I try to teach. I am a passionate and supportive guide who develops structured learning experiences that resonate with students with various backgrounds and responsively adapts to student interests and new conditions.
-
-**Teaching Experience**
-
+**Other Teaching Experience:** Before graduate school I worked for the Colombian government teaching spoken English to teachers and co-teaching English classes in public high schools. Additionally, I taught leadership and environmental science to students in the Colorado backcountry.
 
 
 

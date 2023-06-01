@@ -7,18 +7,6 @@ author_profile: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- COMMENT out EVERYTHING 
 
 **<font size="5">Job market paper</font>**
