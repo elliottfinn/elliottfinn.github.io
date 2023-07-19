@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 
-**<font size="6">Teaching Experience</font>**
+
+**<font size="6">Teaching Philosophy in Brief:</font>**/
+I teach to share my passion and knowledge about environmental politics, land management, environmental science, and public lands history with my students, learn from their their experiences and perspectives, and to create solutions solving contemporary problems. My classes use real data sets, contemporary and historical examples and sources, and are scaffolded to build students' knowledge and skill in a structured manner. We learn how to integrate social and environmental sciences to understand the past, create contemporary solutions, and envision a better future./  
+
+**<font size="6">Teaching Experience</font>**/
 I have taught courses and independent sections at the University of California at Santa Barbara at both the undergraduate (lower and upper division) and graduate (Master of Environmental Science and Management Program) levels.
 
 
@@ -39,8 +43,6 @@ This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https
 **ESM210** Business and the Environment (Master of Environmental Science & Management, Bren School, 2022)
 This course .... /(Class Syllabus)[ADD PDF FILE TO GIT] Section [Syllabus](https://docs.google.com/document/d/1MqBZF-vworupuMdxcRKn9wpyvNbV2n2YBPwmc3pKJuQ/edit?usp=sharing)/
 
-**<font size="5.5">Teaching Philosophy in Brief:</font>**
-I teach to share my passion and knowledge about environmental politics, land management, environmental science, and public lands history with my students, learn from their their experiences and perspectives, and to create solutions solving contemporary problems. My classes use real data sets, contemporary and historical examples and sources, and are scaffolded to build students' knowledge and skill in a structured manner. We learn how to integrate social and environmental sciences to understand the past, create contemporary solutions, and envision a better future./  
 
 **Connection and Safety** I believe in teaching materials and skills that respond to my students interests and needs. 
 My classrooms are welcoming and supportive because I build community by supporting marginalized students, encouraging considerate dialogue, and fostering critical analysis. I [survey]() student's needs and interests, create inclusive environments for learning by setting [norms](LINK to Norm activity or SYLLABUs), [reflecting during](LINK MIDCOURSE EVAL) and [after](LINK post course), creating classes that use diverse materials [LINk to written/podcast/video/]() and center [marginalized communities' perspectives and experiences](LINK Land curriculum, EJ integration into ENERGY)./
@@ -60,8 +62,21 @@ Students inspire my hope that we can heal historical harms to both people and th
 
 
 
-<!--**Teaching assistant**
+<!--
+
+
+
+
+
+
+**Teaching assistant**
 **<font size="5">Graduate courses</font>**
+div style = "margin-left:40px;margin-top:20px;margin-bottom:20px;" # this will make different margins and indents
+
+NEEd to end with /div AT the bottom of any text.
+
+
+
 
 **EDS241** Environmental Policy Evaluation (Master of Environmental Data Science, Bren School, 2022) 
 
