@@ -11,4 +11,4 @@ redirect_from:
 
 ------
 
-You can view my most recent CV [here](https://elliottfinn.github.io/files/ef_cv_4_28_23.pdf).
+You can view my most recent CV [here](https://elliottfinn.github.io/files/ecf_cv_8_28_23.pdf).
