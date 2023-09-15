@@ -38,9 +38,9 @@ Estimated Tea Party Support, 2011-2013 [Map](https://elliottfinn.github.io/files
 
 **Historical **\
 Finn, Elliott. (2023)\
-Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the U.S.](https://elliottfinn.github.io/files/USA_federal_BLM_FS_G12_1880_2020)
-Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the West](https://elliottfinn.github.io/files/WEST_federal_BLM_FS_G12_1880_2020),
-[Environmental Decades](https://elliottfinn.github.io/files/WEST_federal_BLM_FS_G12_1975_2010)
+Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the U.S.](https://elliottfinn.github.io/files/USA_federal_G12_1880_2020)
+Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the West](https://elliottfinn.github.io/files/WEST_federal_G12_1880_2020),
+[Environmental Decades](https://elliottfinn.github.io/files/WEST_federal_G12_1975_2010)
 <!-- COMMENT out EVERYTHING 
 
 **<font size="5">Job market paper</font>**
