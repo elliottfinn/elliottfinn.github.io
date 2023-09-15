@@ -18,13 +18,13 @@ I study the institutional roots of identity group grievances, federal government
 
 I use the historical role federal land jurisdiction and management played in shaping political behavior and identity in the Western U.S. to investigate these topics. As an interdisciplinary scholar and mixed-methods researcher, I use qualitative interviews and historical policy process tracing methods alongside quantitative surveys, geospatial, and design-based causal inference methods to approach these topics.
 
-My [job market paper](INSERT LINK) examines the effects of historical public land management policy changes on anti-federalism beliefs via support for constitutional sheriffs and the shift towards Republican Party dominance in rural Western communities. 
+My [job market paper](INSERT LINK) examines the effects of historical public land management policy changes on anti-establishment beliefs via support for constitutional sheriffs, Republican Party sorting, and Tea Party support in rural Western communities. 
 
 I teach to share my passion and knowledge about environmental politics, land management, environmental science, and public lands history with my students, to learn from my students' experiences and perspectives, and to create solutions. My classes use real data, contemporary and historical cases, and are scaffolded to build students' knowledge and skills in a structured manner. I use varied materials from a range of perspectives and root my pedagogy in _________. In my classes and sections, we learn how to integrate social and environmental sciences to understand the past, create contemporary solutions, and envision a better future.
 
 Ongoing research projects explore both the historical processes that create governance nostalgia as well as the contemporary distribution and prevalence of governance nostalgia. I also collaborate on projects which investigate the antecedents of climate change opinions and beliefs.
 
-I have mentored Honors thesis projects, developed backcountry, experiential environmental science learning materials, speak fluent Spanish, and bring a _person-centric_____ philosophy to my studies.
+I have mentored Honors thesis projects, developed backcountry, experiential environmental science learning materials, speak fluent Spanish, and look forward to meeting you!
 
 
 <!--tudies the intersections between policy and policymakers, local organizations, and individuals. Who controls the resources and makes land management or policy decisions, and how are benefits through use, non-use, or extraction distributed? As an undergraduate Elliott investigated the connections between individuals’ outdoor recreation participation, place of residence, and environmental worldviews. For the last three years, Elliott worked and traveled throughout Europe and South America, most extensively in Turkey and Colombia. When not in the office Elliott can be found hiking and backpacking across the public lands he enjoys studying. -->

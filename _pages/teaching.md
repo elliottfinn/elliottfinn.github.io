@@ -5,14 +5,50 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**<font size="6">Cultivating Political Literacy and Action through Reflective Teaching, Applied Learning, and Structure:</font>**\
+We need passionate students who can think and act politically to create policy solutions to complex ecological and social problems like climate change and polarization. Fostering students’ passion and helping them develop skills to think and act politically is why I teach. Students learn how to evaluate the interconnected causes of distributional and environmental problems and create political solutions by getting their hands dirty. My courses center applied, student driven learning by having students apply data and research to problems they care about. Then, I build supportive learning environments using responsive teaching and scaffolding. As a first time Instructor of Record during the pandemic, students gave me marks that were above the average for the School (and this school highly values effective teaching) and in 2022-2023 I was recognized as an honorable mention for the Graduate Student Association Teaching Excellence award.\  
 
 
-**<font size="6">Teaching Philosophy in Brief:</font>**/
-I teach to share my passion and knowledge about environmental politics, land management, environmental science, and public lands history with my students, learn from their their experiences and perspectives, and to create solutions solving contemporary problems. My classes use real data sets, contemporary and historical examples and sources, and are scaffolded to build students' knowledge and skill in a structured manner. We learn how to integrate social and environmental sciences to understand the past, create contemporary solutions, and envision a better future./  
+**<font size="6">Applied Learning</font>**\
+This are a couple examples of the kinds of projects my students create in my classes.
+[Campaign Advertisement](https://drive.google.com/file/d/1H-CDIWCZjRO-0148FdJfojwLP7uVZsl0/view?usp=drive_link)\
+[Policy Transportability](https://drive.google.com/file/d/1WM4Ad4bPSd7Izadt5Pe_jjITFOGUunpJ/view?usp=drive_link)\
+[Go Solar](https://drive.google.com/file/d/1Dv0gVm3PH9IAESb4Mdeuzf1iPwjKMg3v/view?usp=drive_link)\
 
-**<font size="6">Teaching Experience</font>**/
-I have taught courses and independent sections at the University of California at Santa Barbara at both the undergraduate (lower and upper division) and graduate (Master of Environmental Science and Management Program) levels.
+**<font size="6">Teaching Experience</font>**\
+I have taught courses and independent sections at the University of California at Santa Barbara at both the undergraduate (lower and upper division) and graduate (Master of Environmental Science and Management Program) levels.\
 
+**<font size="5.5">Instructor of Record and/or Co-Developed Class:</font>**\
+**PS176** Energy Politics (Political Science, UCSB, 2021)\
+**ESM241** Environmental Policy and Politics (Master of Environmental Science & Management, Bren School, 2018, 2019, 2020, 2021, 2022, 2023)\
+
+**<font size="5.5">Teaching Assistant:</font>**\
+**ES1** Introduction to Environmental Studies (Environmental Studies, UCSB, 2018, 2019, 2020)\
+**PS12** Political Science Research Methods (Political Science, UCSB, 2021)\
+**PS15** Introduction to American Politics (Political Science, UCSB, 2019)\
+**PS176** Public Policy Analysis (Political Science, UCSB, 2022)\
+**ES3** Introduction to the Social and Cultural Environment(Environmental Studies, UCSB, 2020)\
+**ESM210** Business and the Environment (Master of Environmental Science & Management, Bren School, 2022)\
+
+
+
+**<font size="6">Proposed Courses</font>**\
+[Climate Change and Energy Policy: Environmental Justice and Reactionary Politics](https://docs.google.com/document/d/1iTxFN4BZh-bKi7i0jsUNwPt0q_QEjX4C06FBVGM86kg/edit?usp=sharing)\
+
+**Teaching Philosophy:**\
+[Full Teaching Statement](https://docs.google.com/document/d/1hYvOaBFYgj9Lbqwc3JoAfh8Vt4zRpU601U329DHPShY/edit?usp=sharing)\
+
+**Other Teaching Experience:**\ Before graduate school I worked for the Colombian government teaching spoken English to teachers and co-teaching English classes in public high schools. Additionally, I taught leadership and environmental science to students in the Colorado backcountry.
+
+
+
+
+
+
+
+
+
+<!--
 
 
 **<font size="5.5">Instructor of Record and/or Co-Developed Class:</font>**
