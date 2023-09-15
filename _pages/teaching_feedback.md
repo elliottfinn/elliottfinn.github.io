@@ -20,3 +20,4 @@ You can view my Teaching Associate Evaluations [here](https://elliottfinn.github
 You can view my Teaching Assistant Evaluations [here](https://elliottfinn.github.io/files/FINN_E_C_TeachingASSISTANT_ESCI_summary_4_28_23.pdf)/
 <!-- 
 ########### NOTE I wanna have Teaching TAB-- Then Experience/philosophy, feedback, experience tabs
+-->
