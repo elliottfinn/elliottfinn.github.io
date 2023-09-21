@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-**<font size="5">UCSB Campus Resources</font>**
-UCSB provides a variety of excellent resources for students. I keep and updated list of the resources that I know and hear about. Please ask me about any of these resources or let me know about resources to add to the list.\
+**<font size="5">UCSB Campus Resources</font>**\
+UCSB provides a variety of excellent resources for students. I keep and updated list of the resources that I know and hear about. Please ask me about any of these resources or let me know about resources to add to the list.
 
 **Highlighted Resources**\
 Wellbeing: [CAPS](https://caps.sa.ucsb.edu/)(Counseling, Mental Health, Wellbeing, etc.), [CARE](https://care.ucsb.edu/) (confidential, trauma survivors), [Health and Wellness](https://wellness.ucsb.edu/) (general)\
-Financial: [Financial Crisis Response Team](https://food.ucsb.edu/about/committees/financial-crisis-response-team)\ 
+Financial: [Financial Crisis Response Team](https://food.ucsb.edu/about/committees/financial-crisis-response-team) 
 Food: [AS Food Bank](https://foodbank.as.ucsb.edu/)\
 Writing/Academic Help: [Campus Learning and Assistance Services](https://clas.sa.ucsb.edu/) (PLEASE CHECK THIS SERVICE OUT)\
 First Generation College Student: [ONDAS](https://www.ondas.ucsb.edu/home)\
@@ -19,15 +19,16 @@ International Student Assistance: [OISS](https://oiss.ucsb.edu/)\
 [Full List of Resources](https://docs.google.com/document/d/1jDwcUTUnjdflvtCp3c-fxaRWPwBDR2eAha3Z7x8zVHs/edit?usp=sharing)
 
 **<font size="5">Research and Writing Tools</font>**\
-I have created some tools to help students in my classes over the years. Check out these links for help reading faster, taking better notes, organizing your research for class projects, writing more concisely, and more.\
-**Organization, Notes, and More**\
-[Zotero](https://www.zotero.org/) and [Mendeley](https://www.mendeley.com/?interaction_required=true) are great resources for organizing your research.\ [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) and [Evernote](https://evernote.com/) are helpful for organizing and taking digital notes.\
+I have created some tools to help students in my classes over the years. Check out these links for help reading faster, taking better notes, organizing your research for class projects, writing more concisely, and more.
+**Organization, Notes, and More**
+[Zotero](https://www.zotero.org/) and [Mendeley](https://www.mendeley.com/?interaction_required=true) are great resources for organizing your research. 
+[Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) and [Evernote](https://evernote.com/) are helpful for organizing and taking digital notes.
 
 **Writing Tools:**
-**Language Guidelines**\
-**Reading Tips for Undergraduates **\
-**Political News Sources**\
-**Environmental News Sources**\
+**Language Guidelines**
+**Reading Tips for Undergraduates **
+**Political News Sources**
+**Environmental News Sources**
 
 
 
@@ -50,3 +51,4 @@ Here some notetaking templates I've created for students- [Book Notes](INSERT LI
 **Environmental News Sources**\
 - insert statement
 - LINKS/
+-->
