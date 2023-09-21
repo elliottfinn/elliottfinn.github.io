@@ -10,7 +10,7 @@ We need passionate students who can think and act politically to create policy s
 
 
 **<font size="6">Applied Learning</font>**\
-This are a couple examples of the kinds of projects my students create in my classes.
+These are a couple examples of the kinds of projects my students create in my classes.\
 [Campaign Advertisement](https://drive.google.com/file/d/1yttCS37RGzccE0jEpsgkty8XBeSwk8x9/view?usp=drive_link)\
 [Policy Transportability](https://drive.google.com/file/d/1WM4Ad4bPSd7Izadt5Pe_jjITFOGUunpJ/view?usp=drive_link)\
 [Go Solar](https://drive.google.com/file/d/1Dv0gVm3PH9IAESb4Mdeuzf1iPwjKMg3v/view?usp=drive_link)
@@ -37,9 +37,6 @@ I have taught courses and independent sections at the University of California a
 [Full Teaching Statement](https://docs.google.com/document/d/1hYvOaBFYgj9Lbqwc3JoAfh8Vt4zRpU601U329DHPShY/edit?usp=sharing)
 
 **Other Teaching Experience:** Before graduate school I worked for the Colombian government teaching spoken English to teachers and co-teaching English classes in public high schools. Additionally, I taught leadership and environmental science to students in the Colorado backcountry.
-
-
-
 
 
 
@@ -122,6 +119,9 @@ NEEd to end with /div AT the bottom of any text.
 
 **ECON9** Principles of Economics (Department of Economics, UCSB, 2019)
 
-**ECON10A** Intermediate Microeconomics (Department of Economics, UCSB, 2019)-->
+**ECON10A** Intermediate Microeconomics (Department of Economics, UCSB, 2019)
+
+
+-->
 
 

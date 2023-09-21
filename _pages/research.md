@@ -11,7 +11,7 @@ Finn, Elliott. (2023)\
 **<font size="4">Abstract:</font>**\
 From Donald Trump’s “Make America Great Again” to Democratic presidential candidate John Kerry’s “Let America be America Again,” elites commonly and effectively use nostalgic appeals for a ‘better’ past to manipulate political behavior. Yet little is known about the conditions that create an electorate responsive to appeals to nostalgia. This paper uses the election of Constitutional Sheriffs, who run on platforms emphasizing a return to ‘local control’ and federal land management change to identify the institutional antecedents of successful elite appeals to nostalgia in the western United States.  Specifically, federal land policy historically privileged locally powerful economic and cultural interests because those interests aligned with powerful organized interests and national preferences. However, federal land management institutions became increasingly visible beginning in the late 1970s– as distributive and ideological conflict over land use intensified at the local level – fomenting grievances against the federal government within the same communities federal land management privileged historically. As a result, these communities formed preferences for political candidates campaigning to reverse their perceived loss of institutional control. Leveraging exogenous variation in terrain ruggedness and aridity, I demonstrate that historic restrictions on federal land use are associated with Tea Party support and have persistent effects on the contemporary election of constitutional sheriffs. I supplement these statistical results by process-tracing historical federal land management policy changes in the West and conducting a set of elite interviews in Southern Utah. Together, these analyses demonstrate that policy changes create governance nostalgia -a longing to restore a locality’s perceived ability to influence government processes and outcomes- within historically privileged groups and this shapes political attitudes and behaviors.\
 [Paper]()\
-[SI]()
+[SI, Available upon Request]()
 
 **<font size="5">Dissertation Book Project</font>**\
 **This land was 'our' land: Governance nostalgia in the American west**\
@@ -40,7 +40,7 @@ Estimated Tea Party Support, 2011-2013 [Map](https://elliottfinn.github.io/files
 Finn, Elliott. (2023)\
 Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the U.S.](https://elliottfinn.github.io/files/USA_federal_G12_1880_2020.png)\
 Changes in Bureau of Land Management, Forest Service, and National Park Service federal land management [Map of the West](https://elliottfinn.github.io/files/WEST_federal_G12_1880_2020.png)\
-[Environmental Decades](https://elliottfinn.github.io/files/WEST_federal_G12_1975_2010.png)\
+[Environmental Decades](https://elliottfinn.github.io/files/WEST_federal_G12_1975_2010.png)
 
 
 
