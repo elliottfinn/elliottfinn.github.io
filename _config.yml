@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "googlebc545999f7b66c05.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -84,7 +84,7 @@ author:
   avatar           : images/profile.png
   bio              : "PhD Candidate at University of California, Santa Barbara"
   location         : "Santa Barbara, California"
-  employer         :
+  employer         : "University of California- Santa Barbara (UCSB)"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : ""
   email            : "elliottfinn@ucsb.edu"
