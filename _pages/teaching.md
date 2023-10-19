@@ -10,7 +10,7 @@ We need passionate students who can think and act politically to create policy s
 
 
 **<font size="6">Applied Learning</font>**\
-These are a couple examples of the kinds of projects my students create in my classes.\
+These are a couple examples of the kinds of projects students create in my classes.\
 [Campaign Advertisement](https://drive.google.com/file/d/1yttCS37RGzccE0jEpsgkty8XBeSwk8x9/view?usp=drive_link)\
 [Policy Transportability](https://drive.google.com/file/d/1WM4Ad4bPSd7Izadt5Pe_jjITFOGUunpJ/view?usp=drive_link)\
 [Go Solar](https://drive.google.com/file/d/1Dv0gVm3PH9IAESb4Mdeuzf1iPwjKMg3v/view?usp=drive_link)
@@ -23,10 +23,10 @@ I have taught courses and independent sections at the University of California a
 **ESM241** Environmental Policy and Politics (Master of Environmental Science & Management, Bren School, 2018, 2019, 2020, 2021, 2022, 2023)
 
 **<font size="5.5">Teaching Assistant:</font>**\
-**ES1** Introduction to Environmental Studies (Environmental Studies, UCSB, 2018, 2019, 2020)\
 **PS12** Political Science Research Methods (Political Science, UCSB, 2021)\
 **PS15** Introduction to American Politics (Political Science, UCSB, 2019)\
 **PS176** Public Policy Analysis (Political Science, UCSB, 2022)\
+**ES1** Introduction to Environmental Studies (Environmental Studies, UCSB, 2018, 2019, 2020)\
 **ES3** Introduction to the Social and Cultural Environment(Environmental Studies, UCSB, 2020)\
 **ESM210** Business and the Environment (Master of Environmental Science & Management, Bren School, 2022)
 

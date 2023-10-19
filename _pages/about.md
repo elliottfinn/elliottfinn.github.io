@@ -26,7 +26,7 @@ We need passionate students who can think and act politically to create policy s
 
 I have mentored Honors thesis projects, speak fluent Spanish, and look forward to meeting you!
 
-**Please consider financially supporting** the yak titʸu titʸu yak tiłhini, Northern Chumash’s efforts to preserve their language and land back fund via their [ytt Northern Chumash Nonprofit](https://www.paypal.com/donate/?hosted_button_id=6AJAB9ZWSPWM4) and/or find out whose ancestral lands and waters you work and [live on](https://native-land.ca/)
+**Please consider financially supporting** the yak titʸu titʸu yak tiłhini, Northern Chumash’s efforts to preserve their language and land back fund via their [ytt Northern Chumash Nonprofit](https://www.paypal.com/donate/?hosted_button_id=6AJAB9ZWSPWM4) and/or find out whose ancestral lands and waters you work and [live on](https://native-land.ca/).
 
 
 <!--tudies the intersections between policy and policymakers, local organizations, and individuals. Who controls the resources and makes land management or policy decisions, and how are benefits through use, non-use, or extraction distributed? As an undergraduate Elliott investigated the connections between individuals’ outdoor recreation participation, place of residence, and environmental worldviews. For the last three years, Elliott worked and traveled throughout Europe and South America, most extensively in Turkey and Colombia. When not in the office Elliott can be found hiking and backpacking across the public lands he enjoys studying. -->
