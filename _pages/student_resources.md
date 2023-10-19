@@ -26,9 +26,9 @@ I have created some tools to help students in my classes over the years. Check o
 
 **Writing Tools:**\
 **Language Guidelines**\
-**Reading Tips for Undergraduates **\
+**Reading Tips for Undergraduates**\
 **Political News Sources**\
-**Environmental News Sources**\
+**Environmental News Sources**
 
 
 
