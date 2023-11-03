@@ -52,7 +52,7 @@ When not in the office during the week you can find me running the nearest picku
 
 <div class="image-grid">
   <figure>
-    <img src="https://elliottfinn.github.io/images/carrizo_nm.jpeg" alt="Carrizo NM">
+    <img src="https://elliottfinn.github.io/images/carrizo_nm.jpeg" alt="Carrizo Plains NM">
     <figcaption class="image-caption">Carrizo NM</figcaption>
   </figure>
   <figure>
@@ -60,7 +60,7 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">Elliott Mountain</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/sarracenia_pic.heic" alt="Sarracenia">
+    <img src="https://elliottfinn.github.io/images/sarracenia_pic.heic" alt="Sarracenia Crosses">
     <figcaption class="image-caption">Sarracenia</figcaption>
   </figure>
   <figure>
@@ -77,11 +77,11 @@ When not in the office during the week you can find me running the nearest picku
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/sunrise_bahia_de_los_angeles2.jpeg" alt="Sunrise Bahia de los Angeles">
-    <figcaption class="image-caption">Sunrise Bahia de los Angeles</figcaption>
+    <figcaption class="image-caption">Sunrise Bahia de Los Angeles</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/mushroom_huntin_bounty.heic" alt="Mushroom Huntin Bounty">
-    <figcaption class="image-caption">Mushroom Huntin Bounty</figcaption>
+    <img src="https://elliottfinn.github.io/images/mushroom_huntin_bounty.heic" alt="Mushroom Hunting Bounty">
+    <figcaption class="image-caption">Mushroom Hunting Bounty</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/Escameca_grande_cattle.jpeg" alt="Escameca Grande Cattle">
