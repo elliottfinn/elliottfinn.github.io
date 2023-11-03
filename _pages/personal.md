@@ -13,7 +13,6 @@ I was raised in Corvallis, Oregon on the lands and waters traditionally used by 
 
 When not in the office during the week you can find me running the nearest pickup courts, trail-running, gardening, or cooking tasty food. On the weekends you'll find me hiking, fly fishing, backpacking, and exploring public lands in the West.
 
-<!-- Add your images here -->
 ![Image 1](images/sarracenia_pic.heic)
 *Image taken by [Elliott Finn]*
 ![Image 1](images/ceramics_work.jpeg)
