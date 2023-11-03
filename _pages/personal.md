@@ -34,32 +34,57 @@ When not in the office during the week you can find me running the nearest picku
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 15px;
-  align-items: stretch;
 }
 
 .image-grid img {
   width: 100%;
   height: auto;
   border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .image-caption {
   text-align: center;
   font-style: italic;
+  margin-top: 5px;
 }
 </style>
 
 <div class="image-grid">
-  {% for image in site.static_files %}
-    {% if image.path contains 'images/' %}
-      <figure>
-        <img src="{{ image.path | relative_url }}" alt="Image taken by Elliott Finn">
-        <figcaption class="image-caption">Image taken by Elliott Finn</figcaption>
-      </figure>
-    {% endif %}
-  {% endfor %}
+  <figure>
+    <img src="https://elliottfinn.github.io/images/carrizo_nm.jpeg" alt="Carrizo NM">
+    <figcaption class="image-caption">Carrizo NM</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/elliott_mountain.jpeg" alt="Elliott Mountain">
+    <figcaption class="image-caption">Elliott Mountain</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/sarracenia_pic.heic" alt="Sarracenia">
+    <figcaption class="image-caption">Sarracenia</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/ceramics_work.jpeg" alt="Ceramics Work">
+    <figcaption class="image-caption">Ceramics Work</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/Grandma_winona_inspiration.heic" alt="Grandma Winona">
+    <figcaption class="image-caption">Grandma Winona</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/catavina_sunglasses_pic.jpeg" alt="Catavina Sunglasses">
+    <figcaption class="image-caption">Catavina Sunglasses</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/sunrise_bahia_de_los_angeles2.jpeg" alt="Sunrise Bahia de los Angeles">
+    <figcaption class="image-caption">Sunrise Bahia de los Angeles</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/mushroom_huntin_bounty.heic" alt="Mushroom Huntin Bounty">
+    <figcaption class="image-caption">Mushroom Huntin Bounty</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/Escameca_grande_cattle.jpeg" alt="Escameca Grande Cattle">
+    <figcaption class="image-caption">Escameca Grande Cattle</figcaption>
+  </figure>
 </div>
-
-
-
-
