@@ -29,12 +29,37 @@ When not in the office during the week you can find me running the nearest picku
 *Image taken by [Elliott Finn]*
 
 
-<!-- Add more images as needed -->
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 15px;
+  align-items: stretch;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.image-caption {
+  text-align: center;
+  font-style: italic;
+}
+</style>
+
+<div class="image-grid">
+  {% for image in site.static_files %}
+    {% if image.path contains 'images/' %}
+      <figure>
+        <img src="{{ image.path | relative_url }}" alt="Image taken by Elliott Finn">
+        <figcaption class="image-caption">Image taken by Elliott Finn</figcaption>
+      </figure>
+    {% endif %}
+  {% endfor %}
+</div>
 
 
-<!--
-
-
--->
 
 
