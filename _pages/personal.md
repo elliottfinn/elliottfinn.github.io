@@ -37,11 +37,11 @@ When not in the office during the week you can find me running the nearest picku
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/elliott_mountain.jpg" alt="Elliott Mountain">
-    <figcaption class="image-caption">Elliott Mountain</figcaption>
+    <figcaption class="image-caption">In the Sierra-Nevada</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/sarracenia_pic.jpg" alt="Sarracenia Crosses">
-    <figcaption class="image-caption">Sarracenia</figcaption>
+    <figcaption class="image-caption">Sarracenia Cross</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics Work">
@@ -69,18 +69,18 @@ When not in the office during the week you can find me running the nearest picku
   </figure>
 </div>
 
-![Image 1](images/sarracenia_pic.jpeg)
+![Image 1](images/sarracenia_pic.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/ceramics_work.jpeg)
+![Image 1](images/ceramics_work.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/Grandma_winona_inspiration.jpeg)
+![Image 1](images/Grandma_winona_inspiration.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/catavina_sunglasses pic.jpeg)
+![Image 1](images/catavina_sunglasses pic.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/sunrise_bahia de los angeles 2.jpeg)
+![Image 1](images/sunrise_bahia de los angeles 2.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/mushroom huntin bounty.jpeg)
+![Image 1](images/mushroom huntin bounty.jpg)
 *Image taken by [Elliott Finn]*
-![Image 1](images/Escameca grande cattle.jpeg)
+![Image 1](images/Escameca grande cattle.jpg)
 *Image taken by [Elliott Finn]*
 
