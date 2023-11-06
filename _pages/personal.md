@@ -32,39 +32,51 @@ When not in the office during the week you can find me running the nearest picku
 
 <div class="image-grid">
   <figure>
-    <img src="https://elliottfinn.github.io/images/utah_slickrock.jpg" alt="Carrizo Plains NM">
+    <img src="https://elliottfinn.github.io/images/gse_clari_y_yo.jpg" alt="Grand Staircase-Escalante National Monument">
     <figcaption class="image-caption">Grand Staircase-Escalante National Monument</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/mowing_at_home.jpg" alt="Elliott Mountain">
+    <img src="https://elliottfinn.github.io/images/mowing_at_home.jpg" alt="Mowing at home">
     <figcaption class="image-caption">Mowing at home</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/sarracenia_pic.jpg" alt="Sarracenia Crosses">
-    <figcaption class="image-caption">Sarracenia Cross</figcaption>
+    <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics">
+    <figcaption class="image-caption">Trimming some bowls</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics">
-    <figcaption class="image-caption">Ceramics Work</figcaption>
+    <img src="https://elliottfinn.github.io/images/sarracenia_pic.jpg" alt="Sarracenia Crosses">
+    <figcaption class="image-caption">One of my sarracenia crosses</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/grandma_bridge_pic.jpg" alt="Grandma">
-    <figcaption class="image-caption">Grandma Winona</figcaption>
+    <figcaption class="image-caption">Grandma on the river</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/quito_clari.jpg" alt="Clari and I in Quito">
+    <figcaption class="image-caption">Clari and I in Quito</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/catavina_sunglasses_pic.jpg" alt="Catavina Sunglasses">
     <figcaption class="image-caption">Catavina Sunglasses</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/sunrise_bahia_de_los_angeles_2.jpg" alt="Sunrise Bahia de los Angeles">
-    <figcaption class="image-caption">Sunrise Bahia de Los Angeles</figcaption>
+    <img src="https://elliottfinn.github.io/images/flyfishing_sierras_2.jpg" alt="Flyfishing">
+    <figcaption class="image-caption">Flyfishing in the Sierra Nevada</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/mushroom_huntin_bounty.jpg" alt="Mushroom Hunting Bounty">
+    <img src="https://elliottfinn.github.io/images/mushroom_hunting_bounty.jpg" alt="Mushroom Hunting Bounty">
     <figcaption class="image-caption">Mushroom Hunting Bounty</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/piglets_eating.jpg" alt="Piglets Eating">
     <figcaption class="image-caption">Piglets</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/farm_dad_and_richard.jpg" alt="Dad and Rich">
+    <figcaption class="image-caption">At the family farm with two people I miss</figcaption>
+  </figure>
+  <figure>
+    <img src="https://elliottfinn.github.io/images/fam_potsdam_botanic_garden.jpg" alt="Fam at Botanic Garden">
+    <figcaption class="image-caption">Family in our typical habitat- botanic gardens</figcaption>
   </figure>
 </div>
