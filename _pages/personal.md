@@ -32,23 +32,23 @@ When not in the office during the week you can find me running the nearest picku
 
 <div class="image-grid">
   <figure>
-    <img src="https://elliottfinn.github.io/images/carrizo_nm.jpg" alt="Carrizo Plains NM">
-    <figcaption class="image-caption">Carrizo NM</figcaption>
+    <img src="https://elliottfinn.github.io/images/utah_slickrock.jpg" alt="Carrizo Plains NM">
+    <figcaption class="image-caption">Grand Staircase-Escalante National Monument</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/elliott_mountain.jpg" alt="Elliott Mountain">
-    <figcaption class="image-caption">In the Sierra-Nevada</figcaption>
+    <img src="https://elliottfinn.github.io/images/mowing_at_home.jpg" alt="Elliott Mountain">
+    <figcaption class="image-caption">Mowing at home</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/sarracenia_pic.jpg" alt="Sarracenia Crosses">
     <figcaption class="image-caption">Sarracenia Cross</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics Work">
+    <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics">
     <figcaption class="image-caption">Ceramics Work</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/grandma_bridge_pic.jpg" alt="Grandma Winona">
+    <img src="https://elliottfinn.github.io/images/grandma_bridge_pic.jpg" alt="Grandma">
     <figcaption class="image-caption">Grandma Winona</figcaption>
   </figure>
   <figure>
@@ -56,7 +56,7 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">Catavina Sunglasses</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/sunrise_bahia_de_los_angeles2.jpg" alt="Sunrise Bahia de los Angeles">
+    <img src="https://elliottfinn.github.io/images/sunrise_bahia_de_los_angeles_2.jpg" alt="Sunrise Bahia de los Angeles">
     <figcaption class="image-caption">Sunrise Bahia de Los Angeles</figcaption>
   </figure>
   <figure>
@@ -64,23 +64,7 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">Mushroom Hunting Bounty</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/Escameca_grande_cattle.jpg" alt="Escameca Grande Cattle">
-    <figcaption class="image-caption">Escameca Grande Cattle</figcaption>
+    <img src="https://elliottfinn.github.io/images/piglets_eating.jpg" alt="Piglets Eating">
+    <figcaption class="image-caption">Piglets</figcaption>
   </figure>
 </div>
-
-![Image 1](images/sarracenia_pic.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/ceramics_work.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/Grandma_winona_inspiration.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/catavina_sunglasses pic.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/sunrise_bahia de los angeles 2.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/mushroom huntin bounty.jpg)
-*Image taken by [Elliott Finn]*
-![Image 1](images/Escameca grande cattle.jpg)
-*Image taken by [Elliott Finn]*
-
