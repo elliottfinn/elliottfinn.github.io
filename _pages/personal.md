@@ -40,16 +40,16 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">Mowing at home</figcaption>
   </figure>
   <figure>
+    <img src="https://elliottfinn.github.io/images/fam_potsdam_botanic_garden.jpg" alt="Fam at Botanic Garden">
+    <figcaption class="image-caption">Family in our typical habitat- botanic gardens</figcaption>
+  </figure>
+  <figure>
     <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics">
     <figcaption class="image-caption">Trimming some bowls</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/sarracenia_pic.jpg" alt="Sarracenia Crosses">
     <figcaption class="image-caption">One of my sarracenia crosses</figcaption>
-  </figure>
-  <figure>
-    <img src="https://elliottfinn.github.io/images/grandma_bridge_pic.jpg" alt="Grandma">
-    <figcaption class="image-caption">Grandma on the river</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/quito_clari.jpg" alt="Clari and I in Quito">
@@ -76,7 +76,7 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">At the family farm with two people I miss</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/fam_potsdam_botanic_garden.jpg" alt="Fam at Botanic Garden">
-    <figcaption class="image-caption">Family in our typical habitat- botanic gardens</figcaption>
+    <img src="https://elliottfinn.github.io/images/grandma_bridge_pic.jpg" alt="Grandma">
+    <figcaption class="image-caption">Grandma on the river</figcaption>
   </figure>
 </div>
