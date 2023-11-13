@@ -39,9 +39,9 @@ When not in the office during the week you can find me running the nearest picku
     <img src="https://elliottfinn.github.io/images/mowing_at_home.jpg" alt="Mowing at home">
     <figcaption class="image-caption">Mowing at home</figcaption>
   </figure>
-  <figure>
-    <img src="https://elliottfinn.github.io/images/fam_potsdam_botanic_garden.jpg" alt="Fam at Botanic Garden">
-    <figcaption class="image-caption">Family in our typical habitat- botanic gardens</figcaption>
+ <figure>
+    <img src="https://elliottfinn.github.io/images/flyfishing_sierras_2.jpg" alt="Flyfishing">
+    <figcaption class="image-caption">Flyfishing in the Sierra Nevada</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/ceramics_work.jpg" alt="Ceramics">
@@ -60,8 +60,8 @@ When not in the office during the week you can find me running the nearest picku
     <figcaption class="image-caption">Catavina Sunglasses</figcaption>
   </figure>
   <figure>
-    <img src="https://elliottfinn.github.io/images/flyfishing_sierras_2.jpg" alt="Flyfishing">
-    <figcaption class="image-caption">Flyfishing in the Sierra Nevada</figcaption>
+    <img src="https://elliottfinn.github.io/images/fam_potsdam_botanic_garden.jpg" alt="Fam at Botanic Garden">
+    <figcaption class="image-caption">Family in our typical habitat- botanic gardens</figcaption>
   </figure>
   <figure>
     <img src="https://elliottfinn.github.io/images/mushroom_hunting_bounty.jpg" alt="Mushroom Hunting Bounty">

@@ -10,7 +10,7 @@ redirect_from:
 
 ![](images/carrizo_nm.jpg)
 
-<img align="right" src="https://elliottfinn.github.io/images/elliott_mountain.jpg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://elliottfinn.github.io/images/elliott_mountain.jpeg" alt="Photo" style="width: 325px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 
 I am a Ph.D. candidate, trained in Political Science (M.A. Political Science, American Politics w/distinction), in the interdisciplinary Bren School of Environmental Science & Management at the University of California- Santa Barbara (UCSB). I am currently on the job market. I live in Goleta, CA and work at UCSB which are located on unceded Indigenous Chumash ancestral lands and waters.
 
